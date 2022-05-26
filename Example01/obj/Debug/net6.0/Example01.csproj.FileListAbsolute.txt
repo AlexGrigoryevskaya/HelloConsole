@@ -1,0 +1,15 @@
+/Users/march/Desktop/Example/Example01/bin/Debug/net6.0/Example01
+/Users/march/Desktop/Example/Example01/bin/Debug/net6.0/Example01.deps.json
+/Users/march/Desktop/Example/Example01/bin/Debug/net6.0/Example01.runtimeconfig.json
+/Users/march/Desktop/Example/Example01/bin/Debug/net6.0/Example01.dll
+/Users/march/Desktop/Example/Example01/bin/Debug/net6.0/Example01.pdb
+/Users/march/Desktop/Example/Example01/obj/Debug/net6.0/Example01.csproj.AssemblyReference.cache
+/Users/march/Desktop/Example/Example01/obj/Debug/net6.0/Example01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/march/Desktop/Example/Example01/obj/Debug/net6.0/Example01.AssemblyInfoInputs.cache
+/Users/march/Desktop/Example/Example01/obj/Debug/net6.0/Example01.AssemblyInfo.cs
+/Users/march/Desktop/Example/Example01/obj/Debug/net6.0/Example01.csproj.CoreCompileInputs.cache
+/Users/march/Desktop/Example/Example01/obj/Debug/net6.0/Example01.dll
+/Users/march/Desktop/Example/Example01/obj/Debug/net6.0/refint/Example01.dll
+/Users/march/Desktop/Example/Example01/obj/Debug/net6.0/Example01.pdb
+/Users/march/Desktop/Example/Example01/obj/Debug/net6.0/Example01.genruntimeconfig.cache
+/Users/march/Desktop/Example/Example01/obj/Debug/net6.0/ref/Example01.dll
